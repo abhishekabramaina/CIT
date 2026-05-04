@@ -1,0 +1,8 @@
+streamlit
+streamlit-authenticator
+docx2txt
+PyPDF2
+google-generativeai
+anthropic
+groq
+python-docx
